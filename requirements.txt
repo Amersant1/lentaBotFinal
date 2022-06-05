@@ -1,0 +1,7 @@
+aiogram~=2.20
+SQLAlchemy~=1.4.36
+Pyrogram
+APScheduler~=3.9.1
+xlrd~=2.0.1
+requests~=2.27.1
+beautifulsoup4~=4.11.1
